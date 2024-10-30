@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+h1 img {
+    float: left;
+    padding-bottom: 5px;
+}
+
+input.wp-bookacamp.w-300 {
+    width: 300px;
+    min-width: 300px;
+}
+img.wp-bookacamp.preview-logo {
+    margin-right: 15px;
+}
